@@ -34,8 +34,9 @@ The project consists of three tables:
 - Examine stock levels and sales performance.
 
 ## Project Files
-- Main Project.sql – Database creation and SQL queries.
-- Online_Bookstore_ER_Diagram.pdf – Visual representation of database relationships.
+## Project Files
+- Bookstore Project.sql – Database creation and SQL queries.
+- Online Bookstore ER Diagram.pdf – Visual representation of database relationships.
 
 ## Author
 Created as a personal SQL learning and portfolio project.
