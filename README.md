@@ -37,6 +37,24 @@ The project consists of three tables:
 ## Project Files
 - Bookstore Project.sql – Database creation and SQL queries.
 - Online Bookstore ER Diagram.pdf – Visual representation of database relationships.
+## Power BI Dashboard
 
+An interactive dashboard developed using Microsoft Power BI to analyse the Online Bookstore's sales and business performance.
+
+### Dashboard Features
+- Total Revenue
+- Total Orders
+- Books Sold
+- Customer Analysis
+- Revenue by Author
+- Sales by Genre
+- Monthly Revenue Trends
+- Country-wise Order Analysis
+
+### Dashboard Preview
+See `Online Bookstore Dashboard` for a preview.
+
+### Dashboard File
+`Online Bookstore Dashboard
 ## Author
 Created as a personal SQL learning and portfolio project.
